@@ -1,0 +1,1 @@
+Pong spill hvor det er 2 spillere, og en ball. Hvis ballen klarer å komme seg forbi spiller A sin side eller spiller B sin side, får den motsatte spilleren poeng.
