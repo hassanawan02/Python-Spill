@@ -1,0 +1,1 @@
+Veldig enkelt spill som gir spilleren poeng når de trykker på kjeksen i midten. Cookien gjør en liten animasjon hver gang den blir trukket på.
